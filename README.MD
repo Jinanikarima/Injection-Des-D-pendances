@@ -1,8 +1,7 @@
 <h3>Compte rendu</h3>
-<img src="Captures/Capture-1.PNG">
-<img src="Captures/Capture-2.PNG">
-<img src="Captures/Capture-3.PNG">
-<img src="Captures/Capture-4.PNG">
-<img src="Captures/Capture-5.PNG">
-<img src="Captures/Capture-6.PNG">
-
+<img src="Captures/Capture1.png">
+<img src="Captures/Capture2.png">
+<img src="Captures/Capture3.png">
+<img src="Captures/Capture4.png">
+<img src="Captures/Capture5.png">
+<img src="Captures/Capture6.png">
